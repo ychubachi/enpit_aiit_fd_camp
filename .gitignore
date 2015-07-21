@@ -1,0 +1,16 @@
+*.aux
+*.fdb_latexmk
+*.html
+*.log
+*.nav
+*.out
+*.pyg
+*.snm
+*.toc
+*.vrb
+*.fls
+*.tex
+*.synctex.gz
+/_minted-framework_development/
+.DS_Store
+_minted*/
